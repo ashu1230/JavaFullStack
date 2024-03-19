@@ -1,8 +1,0 @@
-package com.ashu;
-
-import jakarta.servlet.http.HttpServlet;
-
-public class addServlet extends HttpServlet
-{
-	
-}
